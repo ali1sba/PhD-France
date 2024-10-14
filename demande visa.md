@@ -1,4 +1,9 @@
-# Guide pour la demande de visa étudiant (PhD) pour les Algériens résidant à Oran
+---
+title : "demande de visa"
+permalink: /
+layout: default
+---
+# Guide pour la demande de visa étudiant (PhD) pour les Algériens
 
 Bienvenue ! Si vous lisez ce guide, cela signifie que vous avez été accepté en thèse en France et que vous cherchez à obtenir votre visa. Ce guide est spécialement conçu pour les doctorants algériens.
 
@@ -28,13 +33,13 @@ Vous devez faire une demande de visa pour la France si vous êtes dans l'une des
 
 ## Étape 1 : S'informer sur votre situation
 
-Ce guide concerne les Algériens acceptés en thèse en France et n'ayant pas encore de visa. Les demandes de visa déposées en Algérie sont traitées par les consulats généraux de France à Alger, Annaba et Oran, qui sont seuls habilités à prendre des décisions.
+Ce guide concerne les Algériens acceptés en thèse en France et n'ayant pas encore de visa. Les demandes de visa déposées en Algérie sont traitées par les consulats généraux de France à Alger, Annaba et , qui sont seuls habilités à prendre des décisions.
 
 ## Étape 2 : Compléter la demande de visa en ligne
 
 **Pour Alger** :  
 Depuis le 9 avril 2018, les demandes sont reçues par le centre [VFS Global d'Alger](https://visa.vfsglobal.com/dza/fr/fra/).  
-**Pour Annaba et Oran** :  
+**Pour Annaba et ** :  
 Les demandes sont reçues via [TLS Contact](https://visas-fr.tlscontact.com/).
 
 ### Démarche à suivre
@@ -59,7 +64,7 @@ Une fois votre demande complétée, imprimez le formulaire de visa ainsi que la 
 
 Après validation de votre demande, vous devez prendre rendez-vous dans le centre de dépôt correspondant à votre lieu de résidence :
 - Pour Alger : Centre [VFS Global](https://visa.vfsglobal.com/dza/fr/fra/).
-- Pour Annaba et Oran : Centres [TLS Contact](https://visas-fr.tlscontact.com/).
+- Pour Annaba et  : Centres [TLS Contact](https://visas-fr.tlscontact.com/).
 
 **Procédure** :
 1. Créez un compte sur le site du prestataire.
