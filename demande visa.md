@@ -3,13 +3,14 @@ title : "demande de visa"
 permalink: /
 layout: default
 ---
+
 # Guide pour la demande de visa étudiant (PhD) pour les Algériens
 
 Bienvenue ! Si vous lisez ce guide, cela signifie que vous avez été accepté en thèse en France et que vous cherchez à obtenir votre visa. Ce guide est spécialement conçu pour les doctorants algériens.
 
 ## Avez-vous besoin d’un visa ?
 
-Vous devez faire une demande de visa pour la France si vous êtes dans l'une des situations suivantes :
+Vous devez faire une demande de visa pour la France si vous êtes dans l'une des situations suiv  antes :
 - Vous êtes ressortissant d’un pays **hors** Union Européenne (UE).
 - Vous avez un titre de séjour temporaire délivré par un autre pays de l’Espace Schengen.
 
@@ -20,9 +21,9 @@ Vous devez faire une demande de visa pour la France si vous êtes dans l'une des
 ## Documents requis pour votre demande de visa
 
 1. **Obligatoires** :
-   - Convention d’accueil.
-   - Passeport valide.
-   - Diplôme équivalent au moins à un master.
+   - **Convention d'accueil** attestant que vous êtes chercheur, l'objet et la durée de votre séjour en France. Elle devra indiquer votre appartenance à un programme de mobilité si vous envisagez de vous rendre dans un autre pays de l'UE pour vos travaux de recherche.
+   - **Passeport valide**.
+   - **Diplôme** équivalent au moins à un master.
    - [Photographie d'identité ](https://france-visas.gouv.fr/documents/d/france-visas/iso_iec_normes_photos_fr)
 
 2. **Supplémentaires** :
@@ -39,7 +40,7 @@ Ce guide concerne les Algériens acceptés en thèse en France et n'ayant pas en
 
 **Pour Alger** :  
 Depuis le 9 avril 2018, les demandes sont reçues par le centre [VFS Global d'Alger](https://visa.vfsglobal.com/dza/fr/fra/).  
-**Pour Annaba et ** :  
+**Pour Annaba et Oran** :  
 Les demandes sont reçues via [TLS Contact](https://visas-fr.tlscontact.com/).
 
 ### Démarche à suivre
@@ -69,7 +70,10 @@ Après validation de votre demande, vous devez prendre rendez-vous dans le centr
 **Procédure** :
 1. Créez un compte sur le site du prestataire.
 2. Sélectionnez une date de rendez-vous.
-3. Payez les frais de service en ligne (carte Dahabia acceptée).
+3. Payez les frais de service en ligne 4900 DZD (carte Dahabia acceptée).
+
+### Tutoriels utiles :
+[Comment prendre un rendez-vous ?](https://www.youtube.com/watch?v=jCTgJXrNiC8)
 
 ## Étape 4 : Déposer votre dossier
 
