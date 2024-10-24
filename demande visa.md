@@ -1,6 +1,6 @@
 ---
-title : "demande de visa"
-permalink: /
+title : "Demande de visa"
+permalink: /demande de visa
 layout: default
 ---
 
