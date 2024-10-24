@@ -76,8 +76,8 @@ Une fois que vous êtes installé, certaines démarches et formalités sont à r
 ---
 
 ## Autres Ressources
-- [FAQ](faq.md) - Questions fréquentes et leurs réponses.
-- [Liens Utiles](liens-utiles.md) - Une collection de liens utiles pour les doctorants.
+- FAQ - Questions fréquentes et leurs réponses.
+- Liens Utiles - Une collection de liens utiles pour les doctorants.
 
 ---
 
