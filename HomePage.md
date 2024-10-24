@@ -18,7 +18,7 @@ Les démarches à effectuer avant de quitter l'Algérie sont cruciales pour réu
 
 #### 1.2. [Inscription à l'École Doctorale](inscription-ecole-doctorale.md)
 
-#### 1.3. [Obtenir un Visa Scientifique-Chercheur](<demande visa.md>)
+#### 1.3. [Obtenir un Visa Scientifique-Chercheur](https://ali1sba.github.io/PhD-France/demandeVisa)
 
 #### 1.4. [Préparer vos Documents Administratifs](documents-preparation.md)
 
