@@ -1,6 +1,6 @@
 ---
 title : "Demande de visa"
-permalink: /demande de visa
+permalink: /demandeVisa
 layout: default
 ---
 
