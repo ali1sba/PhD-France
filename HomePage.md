@@ -3,7 +3,22 @@ title : "Home"
 permalink: /
 layout: default
 ---
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MF5Z9FRP');</script>
+<!-- End Google Tag Manager -->
 
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF5Z9FRP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
 # Guide Complet pour les Doctorants Algériens en France
 
 Bienvenue sur ce guide complet destiné aux doctorants algériens souhaitant poursuivre leurs études en France. Ce guide couvre **toutes les démarches administratives** et pratiques nécessaires, depuis la préparation avant votre départ, les premières démarches après votre arrivée, jusqu'à la stabilisation de votre situation en France.
